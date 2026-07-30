@@ -1,0 +1,3 @@
+# 📊 Business Intelligence Lab
+
+Welcome to my **Business Intelligence (BI)** repository! This is where I document my journey of learning how data can be transformed into meaningful insights. Throughout this repository, I'll be sharing my laboratory exercises, hands-on practice, and projects built using **Power BI** and **Tableau**. From creating interactive dashboards and visualizations to exploring real-world datasets and uncovering business insights, each upload reflects a step forward in developing my Business Intelligence and data analytics skills. As I continue learning, this repository will grow with new experiments, reports, and projects that showcase my progress and practical experience.
